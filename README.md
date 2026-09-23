@@ -4,6 +4,7 @@ Repositori ini berisi 3 konsep portofolio digital yang dibuat berdasarkan CV man
 
 ## Isi repositori
 - `index.html` : halaman utama yang menampilkan pilihan tiga desain portofolio
+- `cv-manual.html` : halaman CV manual dalam format web
 - `cv-manual.md` : CV manual lengkap dalam format teks
 - `portfolios/portfolio-1/` : desain modern dan profesional
 - `portfolios/portfolio-2/` : desain minimal dan clean
